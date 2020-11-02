@@ -1,3 +1,3 @@
 # Hello World Project
 - git practice
-- git lernig
+- git learning
